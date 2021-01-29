@@ -1,0 +1,3 @@
+dags_image:
+  repository: localhost:5000/dag-img
+  tag: latest

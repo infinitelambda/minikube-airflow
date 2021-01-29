@@ -1,0 +1,7 @@
+marshmallow<2.20
+virtualenv
+psycopg2
+requests<2.23
+datetime
+Werkzeug<0.16.0
+grpc-google-iam-v1<0.13
