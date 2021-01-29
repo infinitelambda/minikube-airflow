@@ -1,4 +1,4 @@
-# Delux Airflow deployment with Minikube
+# Production-like Airflow Development Environment on Minikube
 This is a everything you need to deploy Airflow on minikube.
 
 The default setup is using local logging with an NFS server.
